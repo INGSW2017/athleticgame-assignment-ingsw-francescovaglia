@@ -32,7 +32,7 @@ public class AthleticGameWinnersTest {
 	@Test
 	public void testGetWinner1 () {
 		Assert.assertNotEquals(0, game.getArrivals().size());
-	}
+	} 
 	
 	@Test
 	public void testGetWinner2 () {

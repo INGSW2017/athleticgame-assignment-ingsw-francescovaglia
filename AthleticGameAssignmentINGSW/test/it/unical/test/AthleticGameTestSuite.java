@@ -8,5 +8,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @RunWith(value=Suite.class)
 @SuiteClasses({AthleticGameBasicTest.class, AthleticGameWinnersTest.class})
 public class AthleticGameTestSuite {
-
+ 
 }

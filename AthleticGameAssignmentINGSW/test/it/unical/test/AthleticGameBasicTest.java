@@ -15,7 +15,7 @@ public class AthleticGameBasicTest {
 	public static void init () {
 		game = new AthleticGame(null);
 	}
-	
+	 
 	@Test
 	public void tagliaMappa1 () {
 		game.addArrival(null, Instant.now());
